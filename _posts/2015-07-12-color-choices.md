@@ -1,53 +1,25 @@
 ---
 layout: post
 color: purple
-title:  "Color Choices"
+title:  Supporting STEM in Schools
 date:   2015-07-12 01:54:00
 ---
 
-### Any of the following color values can be used as the value of `color` in the front matter of the blog post.
-<div class="bg-grey">
-    <h2><a href="#">grey</a></h2>
-</div>
-<div class="bg-orange">
-    <h2><a href="#">orange</a></h2>
-</div>
 
-<div class="bg-yellow">
-    <h2><a href="#">yellow</a></h2>
-</div>
-<div class="bg-amber">
-    <h2><a href="#">amber</a></h2>
-</div>
-<div class="bg-light-blue">
-    <h2><a href="#">light-blue</a></h2>
-</div>
-<div class="bg-lime">
-    <h2><a href="#">lime</a></h2>
-</div>
-<div class="bg-teal">
-    <h2><a href="#">teal</a></h2>
-</div>
-<div class="bg-black-87">
-    <h2><a href="#">black-87</a></h2>
-</div>
-<div class="bg-blue-grey">
-    <h2><a href="#">blue-grey</a></h2>
-</div>
-<div class="bg-brown">
-    <h2><a href="#">brown</a></h2>
-</div>
-<div class="bg-indigo">
-    <h2><a href="#">indigo</a></h2>
-</div>
-<div class="bg-purple">
-    <h2><a href="#">purple</a></h2>
-</div>
-<div class="bg-deep-purple">
-    <h2><a href="#">deep-purple</a></h2>
-</div>
-<div class="bg-red">
-    <h2><a href="#">red</a></h2>
-</div><div class="bg-pink">
-    <h2><a href="#">pink</a></h2>
-</div>
+### My commitment to student learning is also evident through the extracurricular STEM focused clubs I have introduced and led.#
+
+
+My math and phys-ed club for Grade 5/6 students had students working collaboratively on math problems through physical activity. 
+
+
+
+My computer coding club, for grade 2 students, teaches coding concepts through reasoning and collaborative work. Using the iPad app Scratch Jr. and Code.org’s Hour of Code, students engage in play based and inquiry based problem solving activities.  
+
+Using Scratch Jr., students program their own interactive stories. The learning goals for the club was to learn how to make predictions, create and carry out rules (simple algorithms), test, and revise.
+
+<img src="/img/scratchjr.png">
+
+
+Using code.org’s Hour of Code, students are continuing to be introduced to the foundations of programming, but within the context of popular culture such as Minecraft, Frozen and Star Wars.  
+
+<img src="/img/hourofcode.png">
