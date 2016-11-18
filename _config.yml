@@ -1,0 +1,30 @@
+# Site settings
+## Change the values as needed.
+title: Karrin Huynh
+email: karrin.huynh@gmail.com
+description: "Bridging gaps with equity education"
+keywords: "teacher, Toronto, educator, STEM, equity"
+#url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
+url: "http://karrin.me/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+paginate: 5
+paginate_path: "page:num"
+# Build settings
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
+links:
+  email: karrin.huynh@gmail.com
+exclude:
+  - bower_components
+  - README.md
+full_name: Karrin
+
+##set this to enable disqus commenting
+# disqus: bitwiser
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: bitwiser.in
